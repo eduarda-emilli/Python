@@ -6,7 +6,8 @@
 <h2>Agora vamos ao que interessa... o que exatamente é o Python? 🤔</h2>
 <span style="font-size: 15px">Resumindo é uma linguagem de programação de alto nível, interpretada e de propósito geral. Foi criada por Guido van Rossum e lançada pela primeira vez em 1991. Uma das principais características do Python é sua sintaxe simples e legibilidade, o que a torna uma ótima escolha para iniciantes na programação. Python é conhecida por sua filosofia de "baterias inclusas", o que significa que ela fornece uma vasta biblioteca padrão com uma ampla gama de módulos e funcionalidades prontos para uso. Isso facilita o desenvolvimento de uma variedade de aplicações, desde scripts simples até aplicativos complexos.</span>
 
-<p>Aqui estão alguns conceitos fundamentais que você encontrará na <a href="/exercicios/Parte 01/">Primeira Parte</a></p>
+<hr>
+
 
 <h2>Conceitos básicos do Python</h2>
 

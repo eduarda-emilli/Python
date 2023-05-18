@@ -2,6 +2,7 @@ from time import sleep
 from datetime import date
 
 while True:
+    
     sexo = int(input('''[ 1 ] Para feminino
 [ 2 ] Para masculino
 Escolha uma opção: '''))

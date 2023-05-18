@@ -39,9 +39,10 @@
 </table>
 
 <hr>
-<h3>Tenha conhecimento da parte teorica do Python, vamos para um pouco de prática! 🥳</h3>
 
-## Prática: Criando Variáveis
+<h2>Tendo conhecimento da parte teorica do Python, vamos para um pouco de prática! 🥳</h2>
+
+## Criando Variáveis
 
 Nesta seção, vamos praticar como criar variáveis em Python. As variáveis são usadas para armazenar e representar valores em nosso código.
 

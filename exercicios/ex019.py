@@ -12,7 +12,6 @@ d = input('Quarto aluno(a): ')
 sorteio = a, b, c, d
 escolha = choice(sorteio)
 
-
 sleep(0.5)
 
 print(emoji.emojize('O aluno escolhido foi... :question:', language='alias'))

@@ -1,7 +1,12 @@
-<h1 style="text-align: center;">Python: Parte 01</h1>
-<p style="font-size: 20px">A linguagem Python é conhecida por sua sintaxe simples, o que a torna uma ótima opção para o inciante na programação.</p>
+<h1 style="text-align: center;">Python: Introdução</h1>
+<span>Estou estudando Python pelo Curso em Vídeo e decidi compartilhar os exercícios que tenho feito até o momento. Já completei a maioria e estou determinada a concluir todos eles (são mais de cem) Em cada resolução, vou tentar explicar o processo por trás da solução e também vou deixar minhas anotações para futuras dúvidas, tanto para mim quanto para quem estiver lendo. Espero que essa iniciativa possa ser útil e contribuir de alguma forma!</span>
+<hr>
 
-<p>Aqui estão alguns conceitos fundamentais que você aprenderá nesta parte:</p>
+
+<h2>Agora vamos ao que interessa... o que exatamente é o Python? 🤔</h2>
+<span style="font-size: 15px">Resumindo é uma linguagem de programação de alto nível, interpretada e de propósito geral. Foi criada por Guido van Rossum e lançada pela primeira vez em 1991. Uma das principais características do Python é sua sintaxe simples e legibilidade, o que a torna uma ótima escolha para iniciantes na programação. Python é conhecida por sua filosofia de "baterias inclusas", o que significa que ela fornece uma vasta biblioteca padrão com uma ampla gama de módulos e funcionalidades prontos para uso. Isso facilita o desenvolvimento de uma variedade de aplicações, desde scripts simples até aplicativos complexos.</span>
+
+<p>Aqui estão alguns conceitos fundamentais que você encontrará na <a href="/exercicios/Parte 01/">Primeira Parte</a></p>
 
 <h2>Conceitos básicos do Python</h2>
 

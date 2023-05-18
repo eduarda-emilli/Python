@@ -37,3 +37,16 @@
     <td>O Python oferece estruturas de repetição, como for e while, para executar um bloco de código várias vezes.</td>
   </tr>
 </table>
+
+<hr>
+<h3>Tenha conhecimento da parte teorica do Python, vamos para um pouco de prática! 🥳</h3>
+
+## Prática: Criando Variáveis
+
+Nesta seção, vamos praticar como criar variáveis em Python. As variáveis são usadas para armazenar e representar valores em nosso código.
+
+Para criar uma variável em Python, você precisa atribuir um valor a ela usando o sinal de igual (`=`). Veja um exemplo simples:
+
+```python
+# Criando uma variável chamada 'idade' e atribuindo o valor 25
+idade = 25

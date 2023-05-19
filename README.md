@@ -51,3 +51,18 @@ Para criar uma variável em Python, você precisa atribuir um valor a ela usando
 ```python
 # Criando uma variável chamada 'idade' e atribuindo o valor 25
 idade = 25
+
+# Imprimindo o valor da variável idade
+print(idade)  # Saída: 25
+
+# Realizando operações matemáticas com a variável idade
+dobro_idade = idade * 2
+print(dobro_idade)  # Saída: 50
+
+# Concatenando a variável idade com uma string
+mensagem = "Minha idade é: " + str(idade)
+print(mensagem)  # Saída: Minha idade é: 25
+
+# Atualizando o valor da variável idade
+idade = 30
+print(idade)  # Saída: 30

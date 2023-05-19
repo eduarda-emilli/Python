@@ -69,10 +69,24 @@ print(idade)  # Saída: 30
 # Criando uma variável chamada 'msg'
 msg = 'Olá, mundo!'
 print(msg) # Saída: Olá, mundo!
+```
 
 ## Tipos de dados
 
 <a name="tipos-de-dados"></a>
 
+Para receber entrada de dados do usuário em Python, você pode utilizar a função input(). Essa função permite que você solicite ao usuário que digite um valor, e em seguida, armazene esse valor em uma variável.
 
-esta seção, vamos praticar como criar variáveis em Python. As variáveis são usadas para armazenar e representar valores em nosso código.
+Aqui está um exemplo simples de como usar a função input():
+
+```python
+nome = input("Digite seu nome: ")
+print(f"Olá, {nome}) 
+```
+Na segunda linha do código, print(f"Olá, {nome}"), estamos usando uma f-string para mostrar uma mensagem na tela. Uma f-string é uma forma especial de escrever strings no Python.
+
+O "f" antes das aspas indica que é uma f-string. Dentro das chaves {}, podemos colocar uma variável ou uma expressão que queremos mostrar na mensagem. Nesse caso, usamos a variável nome dentro das chaves.
+
+Quando o programa é executado, o valor da variável nome é colocado no lugar das chaves na mensagem. Por exemplo, se o usuário digitou "Maria" como nome, a mensagem impressa será "Olá, Maria".
+
+Então, basicamente, a f-string é uma forma conveniente de combinar textos com variáveis em uma única mensagem para exibi-la na tela.

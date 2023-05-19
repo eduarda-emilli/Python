@@ -2,11 +2,9 @@
 <span>Estou estudando Python pelo Curso em Vídeo e decidi compartilhar os exercícios que tenho feito até o momento. Já completei a maioria e estou determinada a concluir todos eles (são mais de cem). Em cada resolução, vou tentar explicar o processo por trás da solução e também vou deixar minhas anotações para futuras dúvidas, tanto para mim quanto para quem estiver lendo. Espero que essa iniciativa possa ser útil e contribuir de alguma forma!</span>
 <hr>
 
-
 <h2>Agora vamos ao que interessa... o que exatamente é o Python? 🤔</h2>
 <span style="font-size: 15px">Resumindo é uma linguagem de programação de alto nível, interpretada e de propósito geral. Foi criada por Guido van Rossum e lançada pela primeira vez em 1991. Uma das principais características do Python é sua sintaxe simples e legibilidade, o que a torna uma ótima escolha para iniciantes na programação. Python é conhecida por sua filosofia de "baterias inclusas", o que significa que ela fornece uma vasta biblioteca padrão com uma ampla gama de módulos e funcionalidades prontos para uso. Isso facilita o desenvolvimento de uma variedade de aplicações, desde scripts simples até aplicativos complexos.</span>
 <hr>
-
 
 <h2>Conceitos básicos do Python</h2>
 
@@ -42,6 +40,7 @@
 <h2>Tendo conhecimento da parte teórica do Python, vamos para um pouco de prática! 🥳</h2>
 
 ## Criando Variáveis
+
 <a name="criando-variaveis"></a>
 
 Nesta seção, vamos praticar como criar variáveis em Python. As variáveis são usadas para armazenar e representar valores em nosso código.
@@ -66,3 +65,9 @@ print(mensagem)  # Saída: Minha idade é: 25
 # Atualizando o valor da variável idade
 idade = 30
 print(idade)  # Saída: 30
+
+# Criando uma variável chamada 'msg'
+msg = 'Olá, mundo!'
+print(msg) # Saída: Olá, mundo!
+
+

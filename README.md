@@ -70,4 +70,9 @@ print(idade)  # Saída: 30
 msg = 'Olá, mundo!'
 print(msg) # Saída: Olá, mundo!
 
+## Tipos de dados
 
+<a name="tipos-de-dados"></a>
+
+
+esta seção, vamos praticar como criar variáveis em Python. As variáveis são usadas para armazenar e representar valores em nosso código.

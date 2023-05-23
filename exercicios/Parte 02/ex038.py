@@ -7,3 +7,8 @@ Escreva um programa que leia dois números inteiros e compare-os, mostrando na t
 - Não existe valor maior, os dois são iguais
 
 '''
+
+n1 = int(input('Primeiro: '))
+n2 = int(input('segundo: '))
+
+if 

@@ -9,5 +9,3 @@ au = sa + (sa * 15 / 100)
 
 print(f'Parabéns {nome}! Você tem direito a um aumento de 15%, agora seu salário é de R$ {au:.2f}')
 
-print('isso é um teste')
-

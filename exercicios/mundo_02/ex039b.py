@@ -22,7 +22,7 @@ if sexo == 1:
     elif idade == 18:
         print('Você possui idade, mas não precisa se alistar, pois não é obrigatório para mulheres.')
     elif idade > 18:
-        print(f'Você passou da hora de se alistar, mas não deve se preocupar. O alistamento militar não é obrigátorio para mulheres.')
+        print(f'Você passou da hora de se alistar, mas não deve se preocupar. O alistamento2 militar não é obrigátorio para mulheres.')
 elif sexo == 2:
     if idade < 18:
         alistamento = 18 - idade

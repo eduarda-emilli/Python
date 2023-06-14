@@ -16,11 +16,11 @@ print(f'O atleta tem {idade_atleta} anos.')
 
 if idade_atleta <= 9:
     print('Classificação: MIRIM')
-elif idade_atleta > 9 and idade_atleta <= 14:
+elif idade_atleta  <= 14:
     print('Classificação INFANTIL')
-elif idade_atleta > 14 and idade_atleta <= 19:
+elif idade_atleta  <= 19:
     print('Classificação JÚNIOR') 
-elif idade_atleta > 19 and idade_atleta <= 25:
+elif idade_atleta  <= 25:
      print('Classificação SÊNIOR') 
 else:
     print('Classificação MASTER')

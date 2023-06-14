@@ -1,4 +1,4 @@
-'''
+00'''
 
  Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
 
@@ -12,16 +12,14 @@
 
 
 
-print('\t Central de Notas')
+""" print('\t Central de Notas')
 print('-------------------------------------')
 nome_aluno = input('Nome do aluno: ')
-ra_aluno = int(input('Digite o seu RA: '))
 
 print('-------------------------------------')
 print(f'Bem-vindo(a) a Central, {nome_aluno}')
 print(f'Aluno: {nome_aluno}')
-print(f'Matrícula: {ra_aluno}')
-print('-------------------------------------')
+print('-------------------------------------') """
 
 nota_1 = float(input('Digite sua primeira nota: '))
 nota_2 = float(input('Digite sua segunda nota: '))
